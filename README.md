@@ -1,2 +1,0 @@
-# introGit
-introGit
